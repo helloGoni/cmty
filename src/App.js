@@ -1,9 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
-import Header from './components/header/Header';
-import Footer from './components/footer/Footer';
-import SectionMenu1 from './components/main/SectionMenu1';
-
+import logo from "./logo.svg";
+import "./App.css";
+import Header from "./components/header/Header";
+import Footer from "./components/footer/Footer";
+import SectionMenu1 from "./components/main/SectionMenu1";
 
 function App() {
   return (
