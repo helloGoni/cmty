@@ -4,7 +4,7 @@ function Header() {
     return(
         <header>
             <div>
-                로고임
+                깃 로고
             </div>
             <nav>
                 <a className="menuArea">메뉴1</a>
