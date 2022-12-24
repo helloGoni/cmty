@@ -1,0 +1,17 @@
+header {
+    color : #f2f2f2;
+    background-color: #212529;
+    width: 100%;
+    
+    display:flex;
+    position: fixed;
+}
+
+.menuNav {
+
+}
+.menuArea {
+    font-size: 18px;
+    cursor:pointer;
+    text-align: center;
+}
